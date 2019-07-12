@@ -10,3 +10,4 @@
 
 # .rst backups
 *.rst~
+.DS_Store
